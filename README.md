@@ -1,3 +1,3 @@
 # coursera
 open source tools
-Introduction to Github
+and introduction to Github
